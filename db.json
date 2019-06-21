@@ -4,7 +4,7 @@
 			"upcomingEvents": [{
 					"id": "00000000-0000-0000-0000-000000000000",
 					"title": "Kommende event 1",
-					"htmlDescription": "<div>&lt;p&gt;Lydenskab &#229;bner en midlertidig koncertsal i V&#228;nersborg, Sverige den 25.-27. november 2015. L&#230;s &lt;a href=&quot;http://lydenskab.dk/pop-up-konsertsal-vanersborg-sverige/&quot;&gt;her&lt;/a&gt;&lt;/p&gt;</div>",
+					"htmlDescription": "&#x3C;html&#x3E;&#x3C;body&#x3E;the code you posted&#x3C;/body&#x3E;&#x3C;/html&#x3E;",
 					"date": "2020-04-21T18:25:43-05:00",
 					"venue": "Store Vega",
 					"address": "Enghavevej 40, 1674 København",
