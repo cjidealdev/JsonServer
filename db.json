@@ -115,7 +115,8 @@
 				],
 				"sponsors": [{
 					"name": "Heyday",
-					"imageUrl": "http://kimvesterbirk.dk/wp-content/uploads/2019/02/heyday-730x413.jpg"
+					"imageUrl": "http://kimvesterbirk.dk/wp-content/uploads/2019/02/heyday-730x413.jpg",
+					"websiteUrl": "http://heyday.dk"
 				}]
 			}
 		},
