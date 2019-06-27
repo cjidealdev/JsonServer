@@ -93,6 +93,29 @@
 						"imageUrl": "http://kimvesterbirk.dk/wp-content/uploads/2019/02/heyday-730x413.jpg",
 						"websiteUrl": "http://heyday.dk"
 					}]
+				},
+				{
+					"id": "00000000-0000-0000-0000-000000000000",
+					"title": "Overstået event 3",
+					"htmlDescription": "&lt;p&gt;Lydenskab &#229;bner en midlertidig koncertsal i V&#228;nersborg, Sverige den 25.-27. november 2015. L&#230;s &lt;a href=&quot;http://lydenskab.dk/pop-up-konsertsal-vanersborg-sverige/&quot;&gt;her&lt;/a&gt;&lt;/p&gt;",
+					"date": "2018-04-21T18:25:43",
+					"venue": "Store Vega",
+					"location": {
+						"latitude": 55.6676226,
+						"longitude": 12.5412265
+					},
+					"address": "Enghavevej 40, 1674 København",
+					"coverImageUrl": "http://behindthecurtainsmedia.com/wp-content/uploads/2018/08/crowd.jpg",
+					"audioStreamUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+					"imageUrls": [
+						"http://behindthecurtainsmedia.com/wp-content/uploads/2018/08/crowd.jpg",
+						"https://teespring-storecontent.s3.amazonaws.com/oH48W9OolEiG3_iE40F0tw_store_banner_image?1478560026161"
+					],
+					"sponsors": [{
+						"name": "Heyday",
+						"imageUrl": "http://kimvesterbirk.dk/wp-content/uploads/2019/02/heyday-730x413.jpg",
+						"websiteUrl": "http://heyday.dk"
+					}]
 				}
 			],
 			"blogEntries": [{
@@ -103,8 +126,7 @@
 					"htmlDescription": "&lt;p&gt;Lydenskab &#229;bner en midlertidig koncertsal i V&#228;nersborg, Sverige den 25.-27. november 2015. L&#230;s &lt;a href=&quot;http://lydenskab.dk/pop-up-konsertsal-vanersborg-sverige/&quot;&gt;her&lt;/a&gt;&lt;/p&gt;",
 					"coverImageUrl": "http://behindthecurtainsmedia.com/wp-content/uploads/2018/08/crowd.jpg",
 					"imageUrls": [
-						"http://behindthecurtainsmedia.com/wp-content/uploads/2018/08/crowd.jpg",
-						"https://teespring-storecontent.s3.amazonaws.com/oH48W9OolEiG3_iE40F0tw_store_banner_image?1478560026161"
+						"http://behindthecurtainsmedia.com/wp-content/uploads/2018/08/crowd.jpg"						
 					]
 				}
 
